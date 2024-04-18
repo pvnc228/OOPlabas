@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0930kV4TogY5VWlfZm4FVi+6blfg7mKX2Kj+jFq3POAg/saZ8XVKrHzodOCpYr0DMXYJWIxytthlqQSlRwypxw==",
+  "success": true,
+  "projectFilePath": "/home/user/Documents/code/2labanonasync/2labanonasync.csproj",
+  "expectedPackageFiles": [
+    "/home/user/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

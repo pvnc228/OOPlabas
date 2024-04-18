@@ -1,0 +1,14 @@
+/home/user/Documents/code/2labaasync/bin/Debug/net8.0/2labaasync
+/home/user/Documents/code/2labaasync/bin/Debug/net8.0/2labaasync.deps.json
+/home/user/Documents/code/2labaasync/bin/Debug/net8.0/2labaasync.runtimeconfig.json
+/home/user/Documents/code/2labaasync/bin/Debug/net8.0/2labaasync.dll
+/home/user/Documents/code/2labaasync/bin/Debug/net8.0/2labaasync.pdb
+/home/user/Documents/code/2labaasync/obj/Debug/net8.0/2labaasync.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documents/code/2labaasync/obj/Debug/net8.0/2labaasync.AssemblyInfoInputs.cache
+/home/user/Documents/code/2labaasync/obj/Debug/net8.0/2labaasync.AssemblyInfo.cs
+/home/user/Documents/code/2labaasync/obj/Debug/net8.0/2labaasync.csproj.CoreCompileInputs.cache
+/home/user/Documents/code/2labaasync/obj/Debug/net8.0/2labaasync.dll
+/home/user/Documents/code/2labaasync/obj/Debug/net8.0/refint/2labaasync.dll
+/home/user/Documents/code/2labaasync/obj/Debug/net8.0/2labaasync.pdb
+/home/user/Documents/code/2labaasync/obj/Debug/net8.0/2labaasync.genruntimeconfig.cache
+/home/user/Documents/code/2labaasync/obj/Debug/net8.0/ref/2labaasync.dll
