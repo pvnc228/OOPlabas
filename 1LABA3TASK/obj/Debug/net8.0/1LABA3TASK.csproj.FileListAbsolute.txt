@@ -1,0 +1,14 @@
+/home/user/Documents/code/1LABA3TASK/bin/Debug/net8.0/1LABA3TASK
+/home/user/Documents/code/1LABA3TASK/bin/Debug/net8.0/1LABA3TASK.deps.json
+/home/user/Documents/code/1LABA3TASK/bin/Debug/net8.0/1LABA3TASK.runtimeconfig.json
+/home/user/Documents/code/1LABA3TASK/bin/Debug/net8.0/1LABA3TASK.dll
+/home/user/Documents/code/1LABA3TASK/bin/Debug/net8.0/1LABA3TASK.pdb
+/home/user/Documents/code/1LABA3TASK/obj/Debug/net8.0/1LABA3TASK.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documents/code/1LABA3TASK/obj/Debug/net8.0/1LABA3TASK.AssemblyInfoInputs.cache
+/home/user/Documents/code/1LABA3TASK/obj/Debug/net8.0/1LABA3TASK.AssemblyInfo.cs
+/home/user/Documents/code/1LABA3TASK/obj/Debug/net8.0/1LABA3TASK.csproj.CoreCompileInputs.cache
+/home/user/Documents/code/1LABA3TASK/obj/Debug/net8.0/1LABA3TASK.dll
+/home/user/Documents/code/1LABA3TASK/obj/Debug/net8.0/refint/1LABA3TASK.dll
+/home/user/Documents/code/1LABA3TASK/obj/Debug/net8.0/1LABA3TASK.pdb
+/home/user/Documents/code/1LABA3TASK/obj/Debug/net8.0/1LABA3TASK.genruntimeconfig.cache
+/home/user/Documents/code/1LABA3TASK/obj/Debug/net8.0/ref/1LABA3TASK.dll
